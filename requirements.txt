@@ -1,0 +1,5 @@
+gigachain_community
+gigachain
+faiss-cpu
+streamlit
+python-dotenv
